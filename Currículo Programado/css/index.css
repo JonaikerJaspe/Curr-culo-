@@ -13,10 +13,10 @@ body {
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
-	background-size: contain;
+	/* background-size: contain; */
 	display: flex;
-	justify-content: center;
 	align-items: center;
+	justify-content: center;
 	min-height: 100vh;
 }
 .html5 {
@@ -46,7 +46,7 @@ body {
 	width: 100%;
 	max-width: 1000px;
 	min-height: 1000px;
-	background: #12b1b681;
+	background: #39554d4d;
 	margin: 50px;
 	display: grid;
 	grid-template-columns: 1fr 2fr;
@@ -57,6 +57,7 @@ body {
 	background: #040404b0;
 	padding: 30px;
 	border-radius: 1.3em 0 0 1.3em;
+	max-width: max-content;
 }
 .perfil {
 	position: relative;
@@ -377,7 +378,7 @@ textarea {
 	cursor: pointer;
 }
 
-@media (max-width: 200px) {
+@media (max-width: 100px) {
 	body {
 		width: 50%;
 	}
