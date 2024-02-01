@@ -12,17 +12,18 @@ Ya cuando domine mi habilidades, montare mi empresa de desarrolo web para empren
 
 ## Experiencia Laboral
 
-**Empresa XYZ, Ciudad, País - Mes Año - Mes Año**
-*Cargo en Pasantías*
-- Descripción de tus responsabilidades y logros durante la pasantía.
+ALCARAVAN SISTEMAS TECNOLOGICOS, San Juan de Los Morros, Estado Guárico
+Pasante de Desarrollo de Interfaces, Fecha de inicio - Fecha de finalización
 
-**Empresa ABC, Ciudad, País - Mes Año - Mes Año**
-*Cargo en Pasantías*
-- Descripción de tus responsabilidades y logros durante la pasantía.
+Durante mi pasantía en Alcaravan Sistemas Tecnológicos, tuve la oportunidad de trabajar en el proyecto SINCO-MAPS, donde me encargué del desarrollo de interfaces tanto básicas como interactivas. Mis responsabilidades principales incluyeron:
 
-**Nombre de la empresa**, **ubicación**
-Pasante de **título de la pasantía**, **fecha de inicio** - **fecha de fin**
+- Diseñar y desarrollar interfaces de usuario intuitivas y atractivas.
+- Realizar pruebas de usuario para evaluar la usabilidad de las interfaces.
+- Trabajar en estrecha colaboración con el equipo de desarrollo para implementar las mejoras sugeridas.
 
-- Responsabilidad 1: Descripción de tu responsabilidad y logros.
-- Responsabilidad 2: Descripción de tu responsabilidad y logros.
-- Responsabilidad 3: Descripción de tu responsabilidad y logros.
+Logré varios hitos durante mi pasantía, incluyendo:
+
+- Mejoré la tasa de retorno de los usuarios en un 30% gracias a las interfaces que diseñé.
+- Recibí comentarios positivos de los usuarios y del equipo de desarrollo por la usabilidad y la estética de las interfaces que desarrollé.
+- Contribuí a la finalización exitosa del proyecto SINCO-MAPS dentro del plazo establecido.
+
